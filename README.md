@@ -1,10 +1,10 @@
-# 💫 Hi 👋, I'm Shreya Singh
+#  Hi 👋, I'm Shreya Singh
 **A passionate Full Stack Developer || Proficient in Front & Back-end Development || AI Enthusiast || Passionate about Creating Innovative Web Solutions
 
 Email Me 👉 ✉️ **shreyaa700766@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** AI Projects
-- 🌱 **I’m currently learning:** Backend
+- 🌱 **I’m currently learning:** Backend and Machine Learning
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shreyaa700766@gmail.com
 - 😄 **Pronouns:** Shreya Singh
